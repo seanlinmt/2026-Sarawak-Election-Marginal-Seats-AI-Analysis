@@ -1,5 +1,8 @@
 # 2026 Sarawak State Election (PRN13) — Marginal DUN Seats AI Analysis
 
+> [!WARNING]
+> **Disclaimer:** This analysis was generated with AI assistance and relies on analytical assumptions (including composite score weights, scenario-based party realignment flags, and historical/federal cross-checks). **Assumptions and AI-generated outputs may be inaccurate, incomplete, or superseded by political developments.** Always verify figures and context independently against primary sources before relying on them.
+
 Data-driven marginality analysis of all **82 Sarawak State Legislative Assembly (DUN) seats (`N.01`–`N.82`)** ahead of the 13th Sarawak State Election (nomination `28 Nov 2026`, polling `12 Dec 2026`), built from official historical datasets published by [electiondata.my](https://electiondata.my/data-catalogue/) (CC0 Public Domain).
 
 ---
