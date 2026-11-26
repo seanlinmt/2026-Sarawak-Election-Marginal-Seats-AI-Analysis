@@ -1,0 +1,15 @@
+[project]
+name = "sarawak-election-marginals"
+version = "0.1.0"
+description = "Sarawak DUN marginal seats analysis ahead of PRN13 (2026)"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "adjusttext>=1.4.0",
+    "geopandas>=1.0.0",
+    "matplotlib>=3.9.0",
+    "pandas>=2.2.0",
+    "pyarrow>=18.0.0",
+    "pytest>=8.0.0",
+    "requests>=2.32.0",
+    "seaborn>=0.13.0",
+]

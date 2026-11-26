@@ -1,0 +1,95 @@
+{
+  "generated_at_utc": "2026-11-26T08:26:20.161465+00:00",
+  "source": "https://electiondata.my/data-catalogue/",
+  "file_count": 11,
+  "files": [
+    {
+      "filename": "headline_ballots_state_swk.parquet",
+      "url": "https://lake.electiondata.my/results_headline/headline_ballots_state_swk.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:46.069918+00:00",
+      "size_bytes": 93382,
+      "sha256": "42feb32eff7f9da142e5933d469fa26758aaddc1367da8486452447a57f31945",
+      "http_status": 200
+    },
+    {
+      "filename": "headline_stats_state_swk.parquet",
+      "url": "https://lake.electiondata.my/results_headline/headline_stats_state_swk.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:46.245876+00:00",
+      "size_bytes": 46008,
+      "sha256": "f9bee27cb32d7d47377f9d9a0e9dca32d9474bfad8fa661dbbaf1a748cf7b016",
+      "http_status": 200
+    },
+    {
+      "filename": "headline_ballots_byelections.parquet",
+      "url": "https://lake.electiondata.my/results_headline/headline_ballots_byelections.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:46.403563+00:00",
+      "size_bytes": 48492,
+      "sha256": "4606bc970aa4d88157def5259ad9857d8831ba6fd079b1a0e17e0d4d7e74f185",
+      "http_status": 200
+    },
+    {
+      "filename": "headline_stats_byelections.parquet",
+      "url": "https://lake.electiondata.my/results_headline/headline_stats_byelections.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:46.550653+00:00",
+      "size_bytes": 24806,
+      "sha256": "fe9631180e1b4b78781770610cb2aeb619c1ffb90a4c25dc513954a980cbd6a6",
+      "http_status": 200
+    },
+    {
+      "filename": "swk_se12_ballots.parquet",
+      "url": "https://lake.electiondata.my/results_saluran/swk_se12_ballots.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:46.731050+00:00",
+      "size_bytes": 175459,
+      "sha256": "41c5d2cd8d52b33fb4d4f3fe64b319ed92f25ce606e97174aa5a1c57ce87dea8",
+      "http_status": 200
+    },
+    {
+      "filename": "swk_se12_stats.parquet",
+      "url": "https://lake.electiondata.my/results_saluran/swk_se12_stats.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:46.884939+00:00",
+      "size_bytes": 101296,
+      "sha256": "d3cd5a281f088e6f59ea4c8334187ce2b0e1b141c3cf446d86c204b47e038f3a",
+      "http_status": 200
+    },
+    {
+      "filename": "headline_ballots_federal.parquet",
+      "url": "https://lake.electiondata.my/results_headline/headline_ballots_federal.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:47.075743+00:00",
+      "size_bytes": 276777,
+      "sha256": "577e8fe76d1c2bb716679c76bc0fb1563b5aa9beb007d4dd6f3b4dd19c148c84",
+      "http_status": 200
+    },
+    {
+      "filename": "headline_stats_federal.parquet",
+      "url": "https://lake.electiondata.my/results_headline/headline_stats_federal.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:47.234175+00:00",
+      "size_bytes": 150278,
+      "sha256": "2eb5bd5d4cf11027c65c7b57926a47cf75cff45d11cbfb64228b0f3a3d178d42",
+      "http_status": 200
+    },
+    {
+      "filename": "ge15_stats.parquet",
+      "url": "https://lake.electiondata.my/results_saluran/ge15_stats.parquet",
+      "downloaded_at_utc": "2026-11-24T12:08:47.466357+00:00",
+      "size_bytes": 741111,
+      "sha256": "12e9ac07ac20f30ba9e9e1de7da0d4f5efb19e627db886af0ab8ca10cfe77074",
+      "http_status": 200
+    },
+    {
+      "filename": "ge15_ballots.parquet",
+      "url": "https://lake.electiondata.my/results_saluran/ge15_ballots.parquet",
+      "downloaded_at_utc": "2026-11-26T01:08:12.804420+00:00",
+      "size_bytes": 1287526,
+      "sha256": "157e65c5db5c3549eae57c6070107745b5d8cc038e86f54ff8c1fe5dbb33abda",
+      "http_status": 200
+    },
+    {
+      "filename": "sarawak_2015_dun.geojson",
+      "url": "https://lake.electiondata.my/maps/delimitations/sarawak_2015_dun.geojson",
+      "downloaded_at_utc": "2026-11-24T12:08:49.351789+00:00",
+      "size_bytes": 10556004,
+      "sha256": "c6cefba76c168317dff4d679d97187a471c0fc9a01e17e9f13494ad8fcc2198b",
+      "http_status": 200
+    }
+  ]
+}
